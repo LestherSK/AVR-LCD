@@ -22,7 +22,7 @@ See the defines in the `lcd.h` file
 #define LCD PORTD
 ```
 
-The upper four bits of LCD are used for data, the lower 4 won't be touched
+The upper four bits of LCD are used for data, the lower 4 won't be touched. Unless they are used for the comm lines.
 
 ## Notes
 
