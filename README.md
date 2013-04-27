@@ -7,7 +7,7 @@ Hitachi compatible LCD Driver for AVR
 1 Register Select    
 1 Enable Clock line    
 1 Read/Write bar    
-\+_______ 
+\+_______  
 7 Total
 
 ## Setup
